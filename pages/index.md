@@ -1,17 +1,11 @@
 ---
-title: IDAH Community Archiving Template
+title: Tori Layton Portfolio
 layout: homepage
 permalink: /
 ---
 
-The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
+Tori Layton is a double major in History and German Studies with minors in Museum Studies and Public History, as well as International and Global Studies, at Elon University. Tori will pursue a master's degree in Museum Studies in preparation for entering the museum education field.
 
-Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
+This sight acts as a portfolio of research Tori has carried out throughout her undergraduate experience. 
 
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
-
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+Tori has a keen interest in the use of medieval visual rhetoric as propaganda in Nazi Germany and today by the far-right extremist party Alternative für Deutschland (Alternative for Germany, AfD). 
