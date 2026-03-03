@@ -1,11 +1,11 @@
 # Site navigation links
 
-- title: Our Community
+- title: About
   url: /
   excerpt:
   image:
 
-- title: Our Collection
+- title: Portfolio
   url: /collection
   excerpt:
   image:
