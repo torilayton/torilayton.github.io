@@ -1,11 +1,26 @@
 # Site navigation links
 
-- title: About
+- title: Home
   url: /
   excerpt:
   image:
 
-- title: Portfolio
+- title: History
   url: /collection
+  excerpt:
+  image:
+  
+- title: German Studies
+  url: /
+  excerpt:
+  image:
+  
+- title: Museum Studies
+  url: /
+  excerpt:
+  image:
+
+- title: Deep Map
+  url: https://maps.app.goo.gl/aSGAhRvjMtvkjbfaA
   excerpt:
   image:
